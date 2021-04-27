@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2e0db1e19be86f4495319466d594870, type: 3}
+  m_Name: CHRIST
+  m_EditorClassIdentifier: 
+  cardID: 0
+  cardName: Generic christ action
+  sprite: 4
+  dialogue: "\u0446\u0435\u043B\u0443\u0439 \u043A\u0440\u0435\u0441\u0442"
+  leftQuote: "*\u043C\u0443\u0430*"
+  rightQuote: "\u043D\u0443 \u043D\u0430\u0444\u0438\u0433"
+  pHealthLeft: 10
+  pStrengthLeft: 0
+  pMoneyLeft: -10
+  pBrainLeft: -10
+  pHealthRight: -10
+  pStrengthRight: 0
+  pMoneyRight: 0
+  pBrainRight: 5

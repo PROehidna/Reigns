@@ -1,0 +1,296 @@
+fileFormatVersion: 2
+guid: 708ba2cc715e54c4a82efc5ce6ae8607
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -700276826812489322
+    second: Mom
+  - first:
+      213: 7213773359901625000
+    second: Medicine
+  - first:
+      213: 425851622388837989
+    second: Dad
+  - first:
+      213: -8131483769539470593
+    second: Police
+  - first:
+      213: -3897322714243532608
+    second: Christ
+  - first:
+      213: -88959916869429253
+    second: "\u0421\u043F\u0440\u0430\u0439\u0442\u044B_5"
+  - first:
+      213: -8327881034229289055
+    second: "\u0421\u043F\u0440\u0430\u0439\u0442\u044B_6"
+  - first:
+      213: 6586234467595166233
+    second: "\u0421\u043F\u0440\u0430\u0439\u0442\u044B_7"
+  - first:
+      213: -28038030450780763
+    second: "\u0421\u043F\u0440\u0430\u0439\u0442\u044B_8"
+  - first:
+      213: -6306451101916389519
+    second: "\u0421\u043F\u0440\u0430\u0439\u0442\u044B_9"
+  - first:
+      213: -6663749439805801641
+    second: "\u0421\u043F\u0440\u0430\u0439\u0442\u044B_10"
+  - first:
+      213: 3283621707911007992
+    second: "\u0421\u043F\u0440\u0430\u0439\u0442\u044B_11"
+  - first:
+      213: 2746074261725070791
+    second: "\u0421\u043F\u0440\u0430\u0439\u0442\u044B_12"
+  - first:
+      213: -8700808042810493353
+    second: "\u0421\u043F\u0440\u0430\u0439\u0442\u044B_13"
+  - first:
+      213: 1614282036395260553
+    second: "\u0421\u043F\u0440\u0430\u0439\u0442\u044B_14"
+  - first:
+      213: -8918032330763192505
+    second: "\u0421\u043F\u0440\u0430\u0439\u0442\u044B_15"
+  - first:
+      213: -3584188388595360120
+    second: "\u0421\u043F\u0440\u0430\u0439\u0442\u044B_16"
+  - first:
+      213: 1397856909855629968
+    second: "\u0421\u043F\u0440\u0430\u0439\u0442\u044B_17"
+  - first:
+      213: -8938662637233674161
+    second: "\u0421\u043F\u0440\u0430\u0439\u0442\u044B_18"
+  - first:
+      213: -6718456669030877386
+    second: "\u0421\u043F\u0440\u0430\u0439\u0442\u044B_19"
+  - first:
+      213: 3048139171777818159
+    second: "\u0421\u043F\u0440\u0430\u0439\u0442\u044B_20"
+  - first:
+      213: 6205217764883318792
+    second: "\u0421\u043F\u0440\u0430\u0439\u0442\u044B_21"
+  - first:
+      213: 8834724597030938191
+    second: "\u0421\u043F\u0440\u0430\u0439\u0442\u044B_22"
+  - first:
+      213: -5855229990430388216
+    second: "\u0421\u043F\u0440\u0430\u0439\u0442\u044B_23"
+  - first:
+      213: 6545872625827991387
+    second: "\u0421\u043F\u0440\u0430\u0439\u0442\u044B_24"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 7
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 7
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 7
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mom
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 964
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691676dafed1846f0800000000000000
+      internalID: -700276826812489322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medicine
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 964
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aacc1f86a87c1460800000000000000
+      internalID: 7213773359901625000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dad
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 964
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ea2875bcde8e500800000000000000
+      internalID: 425851622388837989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Police
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 964
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffadeb3189a272f80800000000000000
+      internalID: -8131483769539470593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Christ
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 964
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8f37ae3ade9e9c0800000000000000
+      internalID: -3897322714243532608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
